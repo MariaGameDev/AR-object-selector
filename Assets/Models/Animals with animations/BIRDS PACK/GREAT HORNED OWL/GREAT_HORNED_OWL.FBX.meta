@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 15b4c708d8f23446d9f3e4cdf261da56
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREAT HORNED OWL
+    second: {fileID: 2100000, guid: 2b5264944b59b4655b9f820698021765, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 0e301a39f3a464db9b13eab99edfb79f
+  - deda4da270f2f49ba8e3378f8129dd8a
+  - 311d2b7403506428a978d46b0d233b1e
+  - c34e9194957454cee9016bd8281a59a1
+  - 1ceafebedb8d642089bbd1e5e26441de
+  - c53ebeee4b228461dbdc9753f131da75
+  - b30a862c329be42fe92b8796eccfcc05
+  - 6998a5363d8f74c2a872aabb995376ef
+  - a0dad09f55c6244a787029bea33a1032
+  - 53521c3af12334de3bfb27d7a44f8003
+  - 17eb4c24c15de4003b0a3c47b4908c89
+  - 92e3919c4de8b40869af1da0e1f3245b
+  - 7f2587c5d25714c39a7c83d8160bb349
+  - a4345d947cee14020a222a2648752919
+  - edb46df41c1184e3eac625c6ca1f8e47
+  - 8313de6d377014f288be5921e4ec5d47
+  - 04829006e6aa04c72bb36cfb1c018349
+  - e3f6cb3b1a155463eaf815e45468523d
+  - 0c42d32d2e52242c5ae8b233cbe0f33a
+  - 0a8f685748ab7429b8aa28b65836c9a9
+  - 7680393ecca8c40f5ba75c4632b67503
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

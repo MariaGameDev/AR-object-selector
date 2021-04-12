@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5518840252007611692
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5518840252007611693}
+  m_Layer: 0
+  m_Name: Crocodile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5518840252007611693
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5518840252007611692}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.9039428, y: 1.90789, z: -2.7439833}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5412309177266505887}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &5518840252043882358
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4636370234846925349}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 69524490ba6ea4268a01494f8f6b0372, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &5518840252043882356
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5518840252007611693}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.9039428
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.90789
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.7439833
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+        type: 3}
+      propertyPath: m_Name
+      value: CROCODILE
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: faf896aeb76b74bb3841b1ab6eb724c9, type: 3}
+--- !u!1 &4636370234846925349 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+    type: 3}
+  m_PrefabInstance: {fileID: 5518840252043882356}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5412309177266505887 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: faf896aeb76b74bb3841b1ab6eb724c9,
+    type: 3}
+  m_PrefabInstance: {fileID: 5518840252043882356}
+  m_PrefabAsset: {fileID: 0}
